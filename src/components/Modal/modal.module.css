@@ -64,7 +64,7 @@
     width: 38%;
   }
 
-  .ContentModal {
+  .contentModal {
     flex-direction: row;
     justify-content: space-around;
     padding: 10px 0;
