@@ -1,0 +1,10 @@
+.flexBox{
+    background-color: #000;
+    opacity: 1;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    column-gap: 30px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
